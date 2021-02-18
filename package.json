@@ -10,7 +10,7 @@
   "author": "Samuel Daza <samueldazadaza@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.15.0",
+    "json-server": "^0.16.3",
     "moment": "^2.29.1"
   },
   "devDependencies": {
