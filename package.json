@@ -1,0 +1,23 @@
+{
+  "name": "17.npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samuel Daza <samueldazadaza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.17.0",
+    "webpack": "^5.23.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.20.0"
+  }
+}
